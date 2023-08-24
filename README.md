@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Negar Miralaie</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on **On a tour management website**
+- 🔭 I’m currently working on **a tour management website**
 
 - 🌱 I’m currently learning **graphql and neo4j**
 
