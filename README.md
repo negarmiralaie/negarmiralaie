@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **miralaienegar@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1H2_Y1NSDqbOQpo2wE5U_C8uNsEaS_r99/edit?usp=sharing&ouid=110031849408757941615&rtpof=true&sd=true](https://docs.google.com/document/d/1H2_Y1NSDqbOQpo2wE5U_C8uNsEaS_r99/edit?usp=sharing&ouid=110031849408757941615&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1O5PfioXsvu5EgP2wxlEU1h_sKuo3KmJc/edit](https://docs.google.com/document/d/1O5PfioXsvu5EgP2wxlEU1h_sKuo3KmJc/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
